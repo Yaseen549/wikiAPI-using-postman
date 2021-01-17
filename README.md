@@ -4,11 +4,11 @@
 
 $npm i
 
-or
+(or)
 
 $npm i express ejs mongoose body-parser
 
-or 
+(or) 
 
 $npm i express
 
